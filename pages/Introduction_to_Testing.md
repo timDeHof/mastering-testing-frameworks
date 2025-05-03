@@ -32,6 +32,7 @@ transition: slide-up
 
 ---
 layout: image-right
+hideInToc: true
 image: ./assets/testing-pyramid.svg
 ---
 

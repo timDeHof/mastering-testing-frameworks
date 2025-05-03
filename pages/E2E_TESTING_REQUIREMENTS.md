@@ -225,6 +225,7 @@ describe('Authentication', () => {
 - Special setup requirements
 ---
 layout: two-cols-header
+hideInToc: true
 ---
 
 # Quality Assurance
